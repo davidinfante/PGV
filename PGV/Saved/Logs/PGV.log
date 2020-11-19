@@ -1113,3 +1113,7 @@ Script Stack (0 frames):
 [2020.11.19-10.22.20:230][675]LogStats:                    SendNewReport - 13.444 s
 [2020.11.19-10.22.20:230][675]LogStats:             FDebug::EnsureFailed - 16.200 s
 [2020.11.19-10.22.29:581][675]LogSlate: Window 'Enviar archivos' being destroyed
+[2020.11.19-10.26.48:218][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.11.19-10.26.48:286][851]LogSavePackage: Moving 'C:/Users/david/Documents/GitHub/PGV/PGV/Saved/Minimal_Default_Auto19BB3180C4919B4595AD91C9FB24F00F5.tmp' to 'C:/Users/david/Documents/GitHub/PGV/PGV/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.11.19-10.26.48:289][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.115
+[2020.11.19-10.26.48:289][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
